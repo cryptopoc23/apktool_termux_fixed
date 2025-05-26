@@ -1,15 +1,15 @@
 # apktool_termux_fixed
 Fixed apktool (working aapt &amp; aapt2 in arm & arm64)
 
-How to use
-	1. open termux
-	2. pkg update
-	3. pkg upgrade
-	4. pkg install git
-	5. git clone https://github.com/cryptopoc23/apktool_termux_fixed 
-	6. cd apktool_termux_fixed
-	7. ./build_apktool.sh
-	8. use 'apktool' command :-)
+How to use?
+  1. open termux
+  2. pkg update
+  3. pkg upgrade
+  4. pkg install git
+  5. git clone https://github.com/cryptopoc23/apktool_termux_fixed 
+  6. cd apktool_termux_fixed
+  7. ./build_apktool.sh
+  8. use 'apktool' command :-)
 
 build_apktool.sh script:
   1. install unzip, openjdk-21, qemu-user-x86-64 (for working aapt & aapt2 binaries)
