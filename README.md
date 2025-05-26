@@ -1,7 +1,7 @@
 # apktool_termux_fixed
 Fixed apktool (working aapt &amp; aapt2 in arm & arm64)
 
-How to use?
+How to use
 	1. open termux
 	2. pkg update
 	3. pkg upgrade
